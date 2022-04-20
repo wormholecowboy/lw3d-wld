@@ -149,7 +149,7 @@ export default function Home() {
           <h1 className={styles.title}>Welcome to Crypto Devs</h1>
           <h1 className={styles.title}>By the Wormhole Cowboy</h1>
           <div className={styles.description}>
-            It's an NFT collection for developers in Crypto (and also Shannon).
+            Its an NFT collection for developers in Crypto and also Shannon.
           </div>
           <div className={styles.description}>
             {numberOfWhitelised} have already joined the Whitelist! Holy
